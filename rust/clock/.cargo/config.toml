@@ -1,0 +1,11 @@
+[alias]
+lint = [
+     "clippy",
+     "--",
+     "-D",
+     "clippy::pedantic",
+     "-W",
+     "clippy::cast-possible-truncation",
+     "-W",
+     "clippy::cast-sign-loss"
+]
