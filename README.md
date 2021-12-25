@@ -4,4 +4,3 @@ Git mirrors:
 - [Codeberg](https://codeberg.org/paveloom-o/exercism)
 - [GitHub](https://github.com/paveloom-o/Exercism)
 - [GitLab](https://gitlab.com/paveloom-g/other/exercism)
-- [SourceHut](https://sr.ht/~paveloom/Exercism/)
